@@ -1,5 +1,7 @@
 #titulo
+
 ##subtitulo
+
 *palabra*
 **negrita**
 ~~tachado~~
